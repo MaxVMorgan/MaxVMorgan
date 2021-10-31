@@ -8,3 +8,8 @@
 - D - Division
 - o - Of
 - C - Coding
+Please Note I'm new to GitHub and Coding In general
+You can visit me at:
+Replit - Max Morgan
+Discord - Max Morgan
+Youtube - Max Morgan
