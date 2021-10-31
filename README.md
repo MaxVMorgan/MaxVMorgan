@@ -6,5 +6,5 @@
 - I like to put ADC Inc. Under my Programs Author so I will put my Company as ADC Inc.
 - A - Advanced
 - D - Division
-- - - Of
+- o - Of
 - C - Coding
